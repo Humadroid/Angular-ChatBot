@@ -1,3 +1,4 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Build Status](https://travis-ci.org/Humadroid/Angular-Express-Quickstart.svg?branch=master)](https://travis-ci.org/Humadroid/Angular-ChatBot)
 
 # Chatbot
