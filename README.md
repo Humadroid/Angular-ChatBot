@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Humadroid/Angular-Express-Quickstart.svg?branch=master)](https://travis-ci.org/Humadroid/Angular-ChatBot)
+
 # Chatbot
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.

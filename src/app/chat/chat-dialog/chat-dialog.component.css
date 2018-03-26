@@ -26,7 +26,7 @@
 
 .header {
   text-align: center;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 @media (min-width: 768px) {
@@ -51,10 +51,10 @@
     bottom: 0;
   }
   textarea {
-      font-size: 24px;
+    font-size: 24px;
   }
-  .message{
-      font-size: 20px;
+  .message {
+    font-size: 20px;
   }
 }
 
@@ -74,6 +74,6 @@ textarea {
 .header {
   position: relative;
   z-index: 1;
-  background-color: rgb(70, 70, 70);
+  background-color: #9b4dca;
   color: #fff;
 }

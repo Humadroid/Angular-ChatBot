@@ -9,15 +9,7 @@
   </div>
   <div class="input-btns">
     <label for="nameField">Your Message</label>
-    <textarea [(ngModel)]="formValue" (keyup.enter)="sendMessage()" type="text"></textarea>
+    <input [(ngModel)]="formValue" (keyup.enter)="sendMessage()" type="text">
     <button class="float-right" (click)="sendMessage()">Send</button>
   </div>
-
-  <!-- <div class="input-group mb-3">
-    <textarea type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2"
-      [(ngModel)]="formValue" (keyup.enter)="sendMessage()" type="text"></textarea>
-    <div class="input-group-append">
-      <button class="btn btn-outline-secondary" type="button" (click)="sendMessage()">Send</button>
-    </div>
-  </div> -->
 </div>
