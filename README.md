@@ -3,6 +3,8 @@
 
 # That's how this project looks like
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Humadroid/Angular-ChatBot.svg)](https://greenkeeper.io/)
+
 ![Angular ChatBot](src/assets/Angular-ChatBot.png "Angular ChatBot App working Demo")
 
 # Chatbot
