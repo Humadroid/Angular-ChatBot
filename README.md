@@ -3,7 +3,7 @@
 
 # That's how this project looks like
 
-![Angular ChatBot](src/assets/Angular-ChatBot.png "Angular ChatBot App working Demo")
+[![Angular ChatBot](src/assets/Angular-ChatBot.png "Angular ChatBot App working Demo")](https://angular-chat-bot.firebaseapp.com/)
 
 # Chatbot
 
